@@ -4,17 +4,17 @@ using UnityEngine;
 
 public class EnimyEmiter : MonoBehaviour {
 
-public GameObject asteroid;
-public GameObject metall;
+	public GameObject asteroid;
+	public GameObject metall;
 
-public float minDelay;
-public float maxDelay;
+	public float minDelay;
+	public float maxDelay;
 
-private float nextSpawn;
-public float asteroidCount = 1;
-public float asteroidIncrece;
-private float nextATime = 0.0f;
-public float period = 0.9f;
+	private float nextSpawn;
+	public float asteroidCount = 1;
+	public float asteroidIncrece;
+	private float nextATime = 0.0f;
+	public float period = 0.8f;
 
 
 	void Update () {
