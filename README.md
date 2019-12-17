@@ -2,4 +2,5 @@
 Spase shooter with Unity
 A ship flies in space and shoots at asteroids.
 
-Корабль летает в космосе и стреляет в астероиды 
+Корабль летает в космосе и стреляет в астероиды.
+написано на Unity
